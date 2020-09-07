@@ -714,7 +714,7 @@ blockquote span{
         display: flex;
     }
 
-    #block-photos a {
+    /* #block-photos a {
        width: 50%;
        flex-grow: 1;
        flex-basis: auto;
@@ -732,7 +732,7 @@ blockquote span{
     #block-photos {
         align-content: flex-start;
         justify-content: space-between;
-    }
+    } */
 }
 
 @media (min-width: 767px) {
@@ -741,4 +741,3 @@ blockquote span{
     }
 
 }
-
