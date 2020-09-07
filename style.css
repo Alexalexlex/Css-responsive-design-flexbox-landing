@@ -318,6 +318,8 @@ background-color: transparent;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    width: 80%;
+    margin: auto;
 }
 
 #block-photos a:hover {
